@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "age": "123",
+      "country": "india",
+      "profession": "Student",
+      "gender": "Male",
+      "name": "Bharat",
+      "id": 1
+    },
+    {
+      "age": "12",
+      "country": "india",
+      "profession": "Employed",
+      "gender": "Male",
+      "name": "Shant",
+      "id": 2
+    },
+    {
+      "age": "3",
+      "country": "india",
+      "profession": "Student",
+      "gender": "Male",
+      "name": "satyam",
+      "id": 3
+    },
+    {
+      "name": "shivam",
+      "age": "3",
+      "gender": "Male",
+      "country": "india",
+      "profession": "Student",
+      "id": 4
+    }
+  ]
+}
